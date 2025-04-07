@@ -74,3 +74,27 @@ button:hover {
   border-radius: 4px;
   font-size: 14px;
 }
+
+.api-key-input {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f5f5f5;
+  border: 2px dashed #aaa;
+  border-radius: 5px;
+}
+
+.api-key-field {
+  font-family: monospace;
+  font-size: 16px;
+  padding: 12px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.hint {
+  color: #666;
+  font-size: 0.9em;
+  font-style: italic;
+  margin: 5px 0;
+}
